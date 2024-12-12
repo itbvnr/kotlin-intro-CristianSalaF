@@ -2,7 +2,7 @@ fun main(args: Array<String>)
 {
     var opt = 0;
 
-    println("Introdueix el que vols fer: ")
+    println("Introdueix el que vols fer : ")
     println("1-HowBigIsMyPizza")
     println("2-AirVolumeCalculator")
     opt = readln().toInt();
